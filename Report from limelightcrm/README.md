@@ -2,7 +2,7 @@
 
 # Code
 
-I used Pandas for creating whole report
+I used Python + Pandas for creating whole report
 
 ## Steps:
 
